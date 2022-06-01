@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @NickCra
-- 👀 I’m interested in web development.
+- 👀 I’m interested in becoming a full stack web developer.
 - 🌱 I’m currently learning HTML5, CSS3, Bootstrap 4, JavaScript ES6, DOM, jQuery, Unix, Git, Github, Node.js, Express.js, APIS, EJS, SQL, MongoDB, Mongoose, React.js, WEB3, Blockchain, Crypto, NFT and Marketplace.
 - 💞️ I’m looking to collaborate on the above mentioned subjects.
 - 📫 Feel free to ask me anything. I will answer as soon as I can!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NickCra)](https://git.io/streak-stats)
+[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickCra)](https://github.com/NickCra/github-readme-stats)
 
 <!---
 NickCra/NickCra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
