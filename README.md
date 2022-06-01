@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on the above mentioned subjects.
 - 📫 Feel free to ask me anything. I will answer as soon as I can!
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NickCra)](https://git.io/streak-stats)
+
 <!---
 NickCra/NickCra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
