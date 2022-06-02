@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on the above mentioned subjects.
 - 📫 Feel free to ask me anything. I will answer as soon as I can!
 
-[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickCra)](https://github.com/NickCra/github-readme-stats)
+[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickCra&show_icons=true&theme=tokyonight)](https://github.com/NickCra/github-readme-stats)
 
 <!---
 NickCra/NickCra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
