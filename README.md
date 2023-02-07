@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickCra
-- 👀 I’m interested in becoming a full stack web developer.
-- 🌱 I’m currently learning HTML5, CSS3, Bootstrap 4, JavaScript ES6, DOM, jQuery, Unix, Git, Github, Node.js, Express.js, APIS, EJS, SQL, MongoDB, Mongoose, React.js, WEB3, Blockchain, Crypto, NFT and Marketplace.
+- 👀 I’m interested in becoming a full stack web developer
+- 🌱 I’m currently learning HTML5, CSS3, Bootstrap 4, JavaScript ES6, jQuery, SASS, React, Redux, Node.js, Express.js, APIs, AJAX and Python.
 - 💞️ I’m looking to collaborate on the above mentioned subjects.
 - 📫 Feel free to ask me anything. I will answer as soon as I can!
 
