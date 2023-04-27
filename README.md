@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickCra
 - 👀 I’m interested in becoming a full stack web developer
-- 🌱 I’m currently learning HTML5, CSS3, Bootstrap 4, JavaScript ES6, jQuery, SASS, React, Redux, Node.js, Express.js, APIs, AJAX and Python.
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript ES6, Bootstrap 4, Sass, React, Redux, D3.js, JSON, PostgreSQL, SQL, Linux / Unix command line, Git, APIs, Node.js, Express.js, APIs, MongoDB, Mongoose, Chai, Pug, Socket.io, and Python.
 - 💞️ I’m looking to collaborate on the above mentioned subjects.
 - 📫 Feel free to ask me anything. I will answer as soon as I can!
 
